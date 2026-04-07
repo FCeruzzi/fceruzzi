@@ -5,6 +5,9 @@
 </h1>
 
 <p align="center">
+  <a href="https://fceruzzi.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00BCD4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/francescoceruzzi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
